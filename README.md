@@ -12,7 +12,7 @@ A full-stack social media application built with the MERN stack, featuring real-
 - Media Storage & Optimization with [ImageKit]
 - Background Jobs & Scheduling with [Inngest]
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Frontend: React.js, Tailwind CSS, Clerk UI Components  
 - Backend: Node.js, Express.js, Inngest  
 - Database:MongoDB  
